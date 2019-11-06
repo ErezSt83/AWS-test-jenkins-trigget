@@ -1,2 +1,2 @@
-# AWS-test-jenkins-trigget
-just for testing jenkins trigger, the is no real code this repo
+# AWS-test-jenkins-trigger
+creating a Jenkins pipeline for udacity project 
